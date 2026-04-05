@@ -25,3 +25,25 @@ The dataset is stored in a text file (company.txt), where:
 
 Example:
 
+10,12,15,11
+
+8,9,10,7
+
+20,22,19,24
+
+5,6,7,8
+
+14,15,13,16
+
+## Technologies Used
+* Python
+* NumPy
+* Matplotlib (for visualization)
+* Jupyter Notebook
+
+## Key Features
+* Data Loading
+
+
+  - Reads data from a text file
+  - Converts it into a NumPy array
