@@ -47,3 +47,48 @@ Example:
 
   - Reads data from a text file
   - Converts it into a NumPy array
+
+* Data Exploration
+
+
+  - Indexing and slicing
+  - Understanding dataset structure
+
+* Mathematical Operations
+
+
+  - Sum of productivity
+  - Axis-wise calculations
+
+* Statistical Analysis
+
+
+  - Mean, minimum, maximum
+  - Standard deviation
+
+* Performance Analysis
+
+
+  - Comparison between Python lists and NumPy arrays
+  - Demonstrates efficiency of vectorization
+
+* Reshaping & Broadcasting
+
+
+  - Flattening arrays
+  - Applying scalar operations efficiently
+
+* Visualization
+
+
+  - Bar chart comparing company productivity
+
+## Results and Insights
+* Identified the most and least productive companies
+* Observed variation in productivity across companies
+* Demonstrated that NumPy significantly improves computation speed
+* Visualization provided clear comparison between companies
+
+## How to Run the Project
+1. Clone the repository:
+   git clone https://github.com/your-username/your-repo-name.git
