@@ -91,4 +91,17 @@ Example:
 
 ## How to Run the Project
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/DebojitRC/Syntecxhub_NumPy_Data_Explorer.git
+2. Navigate to the project folder:
+   cd Syntecxhub_NumPy_Data_Explorer
+3. Run the Jupyter Notebook:
+   jupyter notebook
+4. Open the notebook and run all cells
+
+## Future Scope
+* Use real-world datasets
+* Apply machine learning models
+* Build interactive dashboards
+
+## Conclusion
+This project demonstrates the power of NumPy in handling and analyzing data efficiently. It highlights how vectorized operations outperform traditional Python approaches, making NumPy an essential tool in data science.
