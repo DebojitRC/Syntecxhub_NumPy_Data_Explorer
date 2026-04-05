@@ -1,2 +1,6 @@
-# Syntecxhub_NumPy_Data_Explorer
-Week 1 Task 1 Data Science
+# Syntecxhub NumPy Data Explorer
+Data Science Week 1 Task 1
+Author: Debojit Roy Chowdhury
+
+-----
+
